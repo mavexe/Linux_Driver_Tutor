@@ -1,0 +1,1 @@
+this lib contains work with GPIO permanently with RPi, OrangePi etc. Cause their have a fast-access naked gpio pins 
