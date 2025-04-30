@@ -1,0 +1,1 @@
+This file contains Kernel module to log the ethernet l2 traffic. All of the traffic that forwarding between connection host and destination addr
